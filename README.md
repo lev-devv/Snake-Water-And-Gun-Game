@@ -1,6 +1,6 @@
 # Snake-Water-And-Gun-Game
 
-he Snake Water Gun game is a classic text-based game implemented in Python, inspired by the traditional "Rock, Paper, Scissors" game but with a twist. In this version, the options are "Snake," "Water," and "Gun." Players will play against the computer, and the game will determine the winner based on predefined rules.
+The Snake Water Gun game is a classic text-based game implemented in Python, inspired by the traditional "Rock, Paper, Scissors" game but with a twist. In this version, the options are "Snake," "Water," and "Gun." Players will play against the computer, and the game will determine the winner based on predefined rules.
 
 Game Rules
 The game follows these rules:
@@ -38,4 +38,4 @@ Result: Snake drinks Water. You win!
 
 Do you want to play again? (yes/no)
 
-MY CODE IS THERE!ENJOY!
+yes?MY CODE IS THERE!ENJOY!
